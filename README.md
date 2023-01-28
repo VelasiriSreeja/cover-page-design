@@ -147,6 +147,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
+![Screenshot_20230128_055019](https://user-images.githubusercontent.com/118344328/215286606-ec185671-6e99-4d11-803d-729f1bc72a21.png)
 
 
 
